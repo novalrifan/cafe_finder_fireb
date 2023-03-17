@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "919205389698",
+    "project_id": "reload-b5a16",
+    "storage_bucket": "reload-b5a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205389698:android:0932781996090df2ea1b9b",
+        "android_client_info": {
+          "package_name": "com.example.cafe_finder_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205389698-6f6mui5g0112ddsin0qete5u7bncievh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzlbutS6tZQlPY60M-8izhuCPjlNYyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205389698-6f6mui5g0112ddsin0qete5u7bncievh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205389698-nf733dt6jatj6kpjfl0husomas198ckk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cafeFinderFireb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205389698:android:03e53193a8a2438cea1b9b",
+        "android_client_info": {
+          "package_name": "com.example.cafe_finder_fireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205389698-mo2loidvaqga7g1eei8ms53qpe57qocb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafe_finder_fireb",
+            "certificate_hash": "7732ae2e432c1295deb8e3ec6d8b5f716d851ac0"
+          }
+        },
+        {
+          "client_id": "919205389698-6f6mui5g0112ddsin0qete5u7bncievh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzlbutS6tZQlPY60M-8izhuCPjlNYyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205389698-6f6mui5g0112ddsin0qete5u7bncievh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205389698-nf733dt6jatj6kpjfl0husomas198ckk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cafeFinderFireb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

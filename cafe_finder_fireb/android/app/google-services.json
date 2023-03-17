@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919205389698",
+    "project_id": "reload-b5a16",
+    "storage_bucket": "reload-b5a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205389698:android:03e53193a8a2438cea1b9b",
+        "android_client_info": {
+          "package_name": "com.example.cafe_finder_fireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205389698-h0js065j03s3i7bu37j00ha9131c5d87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzlbutS6tZQlPY60M-8izhuCPjlNYyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205389698-h0js065j03s3i7bu37j00ha9131c5d87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

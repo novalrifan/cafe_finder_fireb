@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mapbox_access_token">sk.eyJ1Ijoibm92YWxyaWZhbiIsImEiOiJjbGN1Njk2enowdzdmM3BwMWQzaWxidnc3In0.x_qllgXukKaXQxVvdfNTjw</string>
+</resources>
+<!-- <resources>
+    <string name="mapbox_access_token">pk.eyJ1Ijoibm92YWxyaWZhbiIsImEiOiJjbGE4NGI4cmYwMDZhM25wZTZ0dHE3bG92In0.ZRhdSokQRlMvkHbu_agjyQ</string>
+</resources> -->
