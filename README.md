@@ -17,7 +17,7 @@ A mobile application built with Flutter that helps users find the best cafes or 
 ## Screenshots
 ![Screenshot 1](cafe_finder_fireb/assets/images/Screenshot1.jpg)
 ![Screenshot 2](cafe_finder_fireb/assets/images/Screenshot2.jpg)
-![Screenshot 3](cafe_finder_fireb/assets/images/Screenshot3.jpg)
+
 
 ## Plugins
 | Name            | Usage                                      |
